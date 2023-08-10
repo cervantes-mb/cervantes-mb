@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cervantes-mb (Bianca Cervantes)
-- 👀 I’m interested in ... developing little static websites. like, for fun!
-- 🌱 I’m currently learning ... how to manage and maintain a personal server (and how to host a website)
+- 👀 I’m interested in ... data analysis & website design
+- 🌱 I’m currently learning ... live-data dashboards
 - 📫 How to reach me ... comment or email
 
 <!---
