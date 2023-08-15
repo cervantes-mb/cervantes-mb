@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cervantes-mb (Bianca Cervantes)
 - 👀 I’m interested in ... data analysis & website design
 - 🌱 I’m currently learning ... live-data dashboards
-- 📫 How to reach me ... comment or email
+- 📫 How to reach me ... no idea. still figuring that one out.
 
 <!---
 cervantes-mb/cervantes-mb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
